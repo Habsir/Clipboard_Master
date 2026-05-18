@@ -1,4 +1,4 @@
-# Clipboard Master
+# Clipboard Master（剪贴板历史管理器）
 
 > 轻量级 Windows 剪贴板历史管理器 — 常驻系统托盘，全局热键唤醒，拖拽一键导出。
 
