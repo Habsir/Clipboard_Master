@@ -43,7 +43,7 @@
 
 ```powershell
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/Clipboard_Master.git
+git clone https://github.com/Habsir/Clipboard_Master.git
 cd Clipboard_Master
 
 # 2. 安装依赖
@@ -57,7 +57,7 @@ python main.py
 
 ### 使用打包好的 EXE
 
-下载 [Releases](https://github.com/你的用户名/Clipboard_Master/releases) 中的 `ClipboardMaster.exe`，双击运行即可，无需安装 Python 环境。
+下载 [Releases](https://github.com/Habsir/Clipboard_Master/releases) 中的 `ClipboardMaster.exe`，双击运行即可，无需安装 Python 环境。
 
 ## 使用方法
 
